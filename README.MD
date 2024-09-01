@@ -16,4 +16,5 @@ output 폴더
 2. AmazonS3FullAccess
 
 ## 프론트에서 받아야 할 값
-hope = "소방관"
+  hope = "소방관"  //cluade
+  future_dream = "firefighter"  //titan
